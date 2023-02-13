@@ -42,13 +42,16 @@ Add additional notes to deploy this on a live system.
 ## Authors
 
 - jpiran -*Provided README Template*-
-[Profile jpiran](https://github.com/jpiran)
-
+[Profile jpiran](https://github.com/jpiran) 
 - jpiran2 -*Provided README Template*-
 [Profile jpiran2](https://github.com/jpiran2)
 
 See also the list of [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors) who participated in this project.
 
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 
