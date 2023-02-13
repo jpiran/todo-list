@@ -7,7 +7,7 @@
 -  [ ] Description
 -  [ ] Getting Started
 -    [ ] Prerequisites
--    [ ]Installing
+-    [ ] Installing
 -  [ ] Deploymentu
 -  [ ] Built With
 -  [ ] Authors
