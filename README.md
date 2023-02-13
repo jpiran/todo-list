@@ -39,6 +39,16 @@ Add additional notes to deploy this on a live system.
 - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
 - [Creative Commons](https://creativecommons.org/) - Used to choose the license
 
+## Authors
+
+- jpiran -*Provided README Template*-
+[Profile jpiran](https://github.com/jpiran)
+
+- jpiran2 -*Provided README Template*-
+[Profile jpiran2](https://github.com/jpiran2)
+
+See also the list of [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors) who participated in this project.
+
 
 
 
