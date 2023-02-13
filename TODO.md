@@ -8,7 +8,7 @@
 -  [ ] Getting Started
 -    [ ] Prerequisites
 -    [ ] Installing
--  [ ] Deploymentu
+-  [ ] Deployment
 -  [ ] Built With
 -  [ ] Authors
 -  [ ] License
